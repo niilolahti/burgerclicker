@@ -10,6 +10,8 @@ import Profile from './Profile';
 
 import './App.css';
 
+// Git commit and push test
+
 class Clicker extends Component {
 
   constructor(props) {
